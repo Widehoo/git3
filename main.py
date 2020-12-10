@@ -1,6 +1,6 @@
 def my_superfunction():
     print('Hello branch!')
-    print('What an awesome cock!')
+    print('What an awesome commit!')
 
 
 def main():
